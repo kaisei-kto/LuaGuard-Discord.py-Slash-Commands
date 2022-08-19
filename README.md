@@ -10,7 +10,7 @@
 <h4 align="center">A discord shlash commands bot that utilizes the LuaGuard API. Made in <a href="https://discordpy.readthedocs.io/en/stable/migrating.html" target="_blank">Python & Discord.py 2.0</a>.</h4>
 
 <p align="center">
-  <a href="https://www.paypal.me/AmitMerchant">
+  <a href="https://www.paypal.me/xyba1337">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
