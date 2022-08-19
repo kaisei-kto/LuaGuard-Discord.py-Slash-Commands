@@ -79,7 +79,7 @@ thumbnail_url='your thumbnail url here'
 $ python main.py
 ```
 
-> **Important**
+> **Extra**
 > For an easy configuration and management of roles with payment system, I can highly recommend <a target="blank" href="https://donatebot.io/">donatebot</a>. Unfortunately, only PayPal can be used with it, but this makes it super easy to set up a donator role which will be automatically assigned to someone who has donated.
 Below you can see a possible integration config to reduce unneccessary bot calls: 
 ![Imgur](https://i.imgur.com/MDeauDi.gif)
