@@ -49,10 +49,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/xyba1337/LuaGuard-Discord.py-Slash-Commands
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd LuaGuard-Discord.py-Slash-Commands
 
 # Install dependencies
 $ pip3 install -r requirements.txt
@@ -74,6 +74,9 @@ script_name='your script name here'
 embedcolor=embed color here (type int eg. 0x11038)
 thumbnail_url='your thumbnail url here'
 # PERSONALIZATION  [END]
+
+# Run the bot
+$ python main.py
 ```
 
 > **Important**
