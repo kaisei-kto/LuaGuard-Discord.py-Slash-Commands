@@ -77,6 +77,9 @@ thumbnail_url='your thumbnail url here'
 
 # Run the bot
 $ python main.py
+
+# Important
+$ Make sure that the bots own role is above any buyers role!
 ```
 
 > **Extra**
