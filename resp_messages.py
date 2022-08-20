@@ -21,6 +21,6 @@ Now copy and paste it into your executor and press execute'''
 
 msg_blacklist_not_found = "Discord id/key not found"
 
-msg_no_buyers_role = "You don't have the buyers role"
+msg_no_buyers_role = "You don't have the buyers role\nTry `/redeem`"
 
 msg_no_admin_role = "You don't have the admin role"
