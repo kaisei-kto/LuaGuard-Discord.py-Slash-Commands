@@ -10,5 +10,5 @@
 <h4 align="center">A discord shlash commands bot that utilizes the LuaGuard API. Made in <a href="https://discordpy.readthedocs.io/en/stable/migrating.html" target="_blank">Python & Discord.py 2.0</a>.</h4>
 
 <h5 align="center">
-Removed and discontinued due to zero appreciation of the owners and disrespectful behaviour of their staff team.
+Removed and discontinued due to disrespectful behaviour of their staff team.
 </h5>
